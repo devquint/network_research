@@ -1,11 +1,5 @@
 # Kubernetes 기본 설치
 
-강의 / 분류: https://www.notion.so/Kubernetes-87844269a935408785d011b1fd4ab438
-마지막 수정일: Jul 6, 2020 4:13 PM
-분류: 개인정리
-생성일: Jul 3, 2020 2:18 PM
-태그: 시스템
-
 # 사전 도구 설치
 
 ## kubectl 설치
