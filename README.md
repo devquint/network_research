@@ -15,4 +15,4 @@ Notion에서 정리중이며, md 파일로 변환해서 옮겨서 Github에 업�
 
 ### 20/7/3 ~ 20/7/4
 
-[쿠버네티스 설치](https://github.com/devquint/network_research/blob/master/Kubernetes_install_basic.md) 및 [마스터/워크 노드 셋업](https://github.com/devquint/network_research/blob/master/Kubernetes_install_basic.md)
+[쿠버네티스 설치](https://github.com/devquint/network_research/blob/master/Kubernetes_install_basic.md) 및 [마스터/워크 노드 셋업](https://github.com/devquint/network_research/blob/master/kubernetes_master_worker_setup.md)
