@@ -1,10 +1,5 @@
 # Kubernetes 워커/마스터 설정
 
-강의 / 분류: https://www.notion.so/Kubernetes-87844269a935408785d011b1fd4ab438
-마지막 수정일: Jul 6, 2020 5:09 PM
-분류: 개인정리
-생성일: Jul 3, 2020 4:06 PM
-태그: 시스템
 
 # 추가 사전 준비
 
@@ -27,7 +22,7 @@ sudo sysctl --system
 lsmod | grep br_netfilter
 ```
 
-![image/kub_2_0.png](Kubernetes%2092529fdd3dee4a1c8eb62fd948ec7783/Untitled.png)
+![image/kub_2_0.png](image/kub_2_0.png)
 
 ```bash
 sudo apt-get update && sudo apt-get install -y apt-transport-https curl
